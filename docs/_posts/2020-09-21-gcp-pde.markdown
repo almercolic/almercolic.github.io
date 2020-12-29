@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "My way to the GCP Professional Data Engineer Certification"
+categories: gcp data-engineer certification
+---
+
+
+![](/assets/gcp-pde.jpg){:class="img-responsive"}
+
+
+#### My journey to GCP
+started in February 2020 with joining a project at my workplace at [Lufthansa Industry Solutions](https://www.lufthansa-industry-solutions.com/). With previous project experience in AWS it was an easy switch since the service offerings are in general similar. Initally I found myself mapping a service from GCP to a service from AWS, e.g. Google Cloud Storage --> Amazon S3.
+
+During the project time I had the chance to work with quite a few google services relevant for an Data Engineer. I developed Dataflow pipelines, transferred data in and out of GCS, ingested data into BigQuery, wrote some Cloud Functions and exercised a lot with IAM permissions and roles.
+
+#### Getting certified
+After eight months of working with GCP I wanted to get a certification to provide evidence for my knowledge. Finally I've passed the GCP Professional Data Engineer certification and I can call myself a Google Cloud Platform - Professional Data Engineer.
+
+#### Next Steps
+I'm working in an complex migration project from Azure to GCP which brought to me more knowledge in GCP services. The next step is to achieve another GCP certification: Google Cloud Platform - Professional Cloud Architect.
