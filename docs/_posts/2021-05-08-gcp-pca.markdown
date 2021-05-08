@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Going for the GCP Professional Cloud Architect Certification"
+categories: gcp cloud-arcitect certification
+---
+
+
+![](/assets/gcp-pca.jpg){:class="img-responsive"}
+
+
+The Cloud Architects certification was the next certification planed right after successfully passing the GCP Professional Data Engineer. I felt well prepared since in my current project we worked with a variety of GCP services. Moreover we defined the architecture of a datalake solution which deals with batch and stream injestion of multiple kinds of datasources. Fir this purpose we've looked into all kinds of GCP cloud services and compared the pros and cons for our use cases and therefore i've earned a good overview of the current service offerings in GCP.
+
+In preparation for the certification i've looked into the course offerings of acloudguru. This gave me a good overview of the topics covered in the exam. I've lokked deeper into the topic which i've not been working with on a daily basis. Also having passed the Professional Data Engineer which covers a lot of services in a deeper way helped a lot in the preparation.
+
+The certification exam is a multiple choice type which also includes three interesting real-world use cases. With a good preparation the available time is fair. In the time of corona lockdowns Google offers two ways to take the exam: online / at home or in a test center. I personally prefered going to the nearest test center in Frankfurt, Germany.
+
+Next steps are to work on more projects around GCP architectures and getting involved in different architecting tasks and problems.
